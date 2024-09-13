@@ -1,0 +1,42 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "Johndoe@gmail.com",
+    "birthdate": "06-12-1888",
+    "address": {
+      "street": "Blegdamsvej 35",
+      "city": "København",
+      "zipCode": "2400"
+    },
+    "account": {
+      "id": 5,
+      "balance": 50000,
+      "isActive": true
+    }
+  },
+
+  {
+      "id": 1,
+      "balance": 20000,
+      "isActive": false
+  },
+
+  {
+      "id": 2,
+      "balance": 3000,
+      "isActive": true
+  },
+
+  {
+      "id": 3,
+      "balance": 10000,
+      "isActive": false
+  },
+
+  {
+      "id": 4,
+      "balance": 70000,
+      "isActive": true
+  }
+]
